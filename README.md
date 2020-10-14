@@ -6,3 +6,5 @@ Python Visualization Project for CS 1030.
 @author Noah Pearson Kramer
 
 Python Data Visualization Project for CS 1030.
+
+What we are visualizing: Current number of corona cases in the Denver area.
